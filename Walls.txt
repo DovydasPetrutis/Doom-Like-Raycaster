@@ -1,0 +1,7 @@
+// ID, Top left X,Y,width,height     1 = wall, 0,0 yra kaire virsus prie boundaries
+1,4,0,1,5,
+1,0,10,5,1,
+1,12,0,1,14,
+1,3,14,10,1,
+1,3,14,10,1,
+1,0,19,13,1,
