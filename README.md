@@ -1,3 +1,3 @@
-# Doom Like Raytracer
+# Doom Like Raycaster
 
-Simple Doom like raytracer as a learning project.
+Simple Doom like raytracer as a learning project. (Work in progress)
